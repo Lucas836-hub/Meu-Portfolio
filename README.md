@@ -9,4 +9,4 @@ link de acesso : *https://portfoleu-lucas-git.netlify.app/*
 </div>
 
 ### Sobre o projeto
-Desenvolvido em HTML , CSS e Java Script este projeto foi idealizado por <a href="https://www.instagram.com/devemdobro/">Dev em Dobro</a> no evento "Do zero ao programador contratado." No qual foi ensinado e desenvolvido e live .
+Desenvolvido em HTML , CSS e Java Script este projeto foi idealizado por <a href="https://github.com/devemdobro">Dev em Dobro</a> no evento "Do zero ao programador contratado." No qual foi ensinado e desenvolvido e live .
