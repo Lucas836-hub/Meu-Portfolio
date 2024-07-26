@@ -20,7 +20,7 @@ function mostrarProjetos(quantidadeProjetos) {
 
 function mostrarMaisProjetos() {
   const quantidadeTotalProjetos = document.querySelectorAll('.projeto').length;
-  quantidadeDeProjetos += 4; // Incrementa mais 4 projetos a serem mostrados
+  quantidadeDeProjetos += 5; // Incrementa mais 5 projetos a serem mostrados
   mostrarProjetos(quantidadeDeProjetos);
 
   if (quantidadeDeProjetos >= quantidadeTotalProjetos) {
